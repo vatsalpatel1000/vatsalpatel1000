@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalpatel1000&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalpatel1000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalpatel1000" alt="vatsalpatel1000" /></a> </p>
-<img align="right" alt="Coding" width="500" src="https://github.com/vatsalpatel1000/vatsalpatel1000/blob/main/Programing%20Gif.gif">
+<img align="right" alt="Coding" width="450" src="https://github.com/vatsalpatel1000/vatsalpatel1000/blob/main/Programing%20Gif.gif">
 
 - 🔭 I’m currently working on [C++ with DSA Algorithms](https://github.com/vatsalpatel1000/C-DSA)
 
